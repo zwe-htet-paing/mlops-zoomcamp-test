@@ -1,2 +1,7 @@
 *.parquet
+*.db
+
 models/
+preprocessor/
+output/
+mlruns/
