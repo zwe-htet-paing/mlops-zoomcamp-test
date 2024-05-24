@@ -5,3 +5,5 @@ models/
 preprocessor/
 output/
 mlruns/
+artifacts/
+data/
