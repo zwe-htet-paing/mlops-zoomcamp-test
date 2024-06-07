@@ -1,0 +1,4 @@
+[submodule "mlops"]
+    path = "03-ochestration/mlops"
+    url = "https://github.com/mage-ai/mlops.git"
+    ignore = all
